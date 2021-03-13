@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+## List
+- [ ] list1
+- [ ] list2
+- [ ] list3
